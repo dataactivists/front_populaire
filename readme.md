@@ -4,6 +4,6 @@ Faute d'avoir trouvé les résultats des élections législatives 2024 en format
 
 Le but est de fournir les données nécessaires à ceux qui sont en train de construire des outils pour soutenir le NFP et de bloquer le RN. 
 
-Pour l'instant, les données ne sont pas processées, mais je mettrai à jour dans les prochaines heures. 
+Pour l'instant, les données ne sont pas processées, j'upload maintenant en cas d'urgence, mais je mettrai à jour dans les prochaines heures. 
 
 ## Front Populaire!
