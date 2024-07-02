@@ -1,7 +1,8 @@
-import pandas as pd
-from time import sleep
-import requests
 import json
+from time import sleep
+
+import pandas as pd
+import requests
 
 # fichier avec les codes des circonscriptions
 df = pd.read_json('./data/codes_circos.json')
