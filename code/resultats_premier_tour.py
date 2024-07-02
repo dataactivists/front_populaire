@@ -153,6 +153,49 @@ df = df.convert_dtypes()
 
 df.info()
 
+# %% editable=true slideshow={"slide_type": ""}
+url_circos = 'https://apps.contexte.com/data/ctx-dzc/2024-06-legislatives.json'
+
+res = requests.get(url_circos)
+
+data_circos = res.json()
+
+# %%
+df_circos = pd.DataFrame.from_records(data_circos['districts'])[['code', 'name_full']]
+
+df_circos.columns = ['code_circo', 'circo']
+
+df_circos.head()
+
+# %%
+df = df.merge(
+    right=df_circos,
+    on='code_circo'
+)
+
+df.head()
+
+# %%
+# déplacer les colonnes
+df = df.reindex(
+    columns=[
+        'circo',
+        'code_circo',
+        'second_tour',
+        'swing_circo',
+        'candidat_1',
+        'candidat_1_parti',
+        'candidat_1_score',
+        'candidat_2',
+        'candidat_2_parti',
+        'candidat_2_score',
+        'candidat_3',
+        'candidat_3_parti',
+        'candidat_3_score',
+        'diff_vote',
+    ]
+)
+
 # %% [markdown]
 # ## Export data
 
