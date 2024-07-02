@@ -6,6 +6,10 @@ Le but est de fournir les données nécessaires à ceux qui sont en train de con
 
 Les données annotées sont disponibles en format CSV and XLSX dans le dossier `data/`.
 
+> **Attention!**
+> 
+> Les désistements ne sont pas encore pris en compte. 
+
 Vous pouvez voir les résultats complets ici: https://baserow.io/public/grid/khjvUbrxhDwLjIecAnqLzBil9DjNWddtEJ4PMxflJKg
 
 Et les swing circos ici: https://baserow.io/public/grid/xtrmyYy5BlXtG1PmzNFkycG2sBFoSDwjkYP29OBxYRg
