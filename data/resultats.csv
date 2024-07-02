@@ -119,7 +119,7 @@ Finistère – 4,029-04,True,<0.5,Sylvaine VULPIANI / NFP / Génération.s,NFP,3
 Finistère – 5,029-05,True,<5,Graziella MELCHIOR / ENS / Renaissance,ENS,30.3,Gladys GRELAUD / NFP / Parti communiste français,NFP,27.22,Renée THOMAÏDIS / EXD / Rassemblement national,EXD,26.53,3.080000000000002
 Finistère – 6,029-06,True,,Mélanie THOMIN / NFP / Parti socialiste,NFP,37.88,Patrick LE FUR / EXD / Rassemblement national,EXD,30.21,Erwan CROUAN / ENS / Modem,ENS,27.99,7.670000000000002
 Finistère – 7,029-07,True,<0.5,Jugdeep HARVINDER / NFP / La France insoumise,NFP,31.06,Liliana TANGUY / ENS / Renaissance,ENS,30.66,Annick ALANOU / EXD / Rassemblement national,EXD,26.1,0.3999999999999986
-Finistère – 8,029-08,True,<5,Christian PEREZ / EXD / Rassemblement national,EXD,30.8,Erwan BALANANT / ENS / Modem,ENS,27.76,,,,3.039999999999999
+Finistère – 8,029-08,True,<5,Christian PEREZ / EXD / Rassemblement national,EXD,30.8,Erwan BALANANT / ENS / Modem,ENS,27.76,Sébastien MIOSSEC / Parti socialiste,,22.17,3.039999999999999
 Corse-du-Sud – 1,02A-01,True,<1,Ariane QUARENA / EXD / Rassemblement national,EXD,31.2,Laurent MARCANGELI / ENS / Horizons,ENS,30.7,,,,0.5
 Corse-du-Sud – 2,02A-02,True,,François FILONI / EXD / Rassemblement national,EXD,35.1,Paul-André COLOMBANI / Régions et peuples solidaires,,26.45,,,,8.650000000000002
 Haute-Corse – 1,02B-01,True,<5,Michel CASTELLANI / Régions et peuples solidaires,,31.74,Jean-Michel MARCHAL / EXD / Rassemblement national,EXD,28.8,,,,2.9399999999999977
@@ -355,7 +355,7 @@ Rhône – 4,069-04,True,,Sandrine RUNEL / NFP / Parti socialiste,NFP,38.0,Anne 
 Rhône – 5,069-05,True,,Blandine BROCARD / ENS / Modem,ENS,32.01,Fabrice MATTEUCCI / NFP / Parti socialiste,NFP,26.48,Sasha BITOUM / EXD / Rassemblement national,EXD,25.38,5.529999999999998
 Rhône – 6,069-06,True,,Gabriel AMARD / NFP / La France insoumise,NFP,46.29,Jean-Paul BRET / Parti socialiste,,19.94,,,,26.349999999999998
 Rhône – 7,069-07,True,,Abdelkader LAHMAR / NFP / La France insoumise,NFP,46.0,Alexandre VINCENDET / ENS / Horizons,ENS,27.05,Cédric PIGNAL / EXD / Rassemblement national,EXD,21.28,18.95
-Rhône – 8,069-08,True,,Jonathan GERY / EXD / Rassemblement national,EXD,33.46,Anne REYMBAUT / NFP / Parti socialiste,NFP,22.75,,,,10.71
+Rhône – 8,069-08,True,,Jonathan GERY / EXD / Rassemblement national,EXD,33.46,Anne REYMBAUT / NFP / Parti socialiste,NFP,22.75,Dominique DESPRAS / ENS / Modem,ENS,21.18,10.71
 Rhône – 9,069-09,True,,Patrick LOUIS / EXD / Rassemblement national,EXD,35.41,Alexandre PORTIER / LR / Les Républicains,LR,25.41,Jean-Henri SOUMIREU-LARTIGUE / NFP / Parti socialiste,NFP,23.25,9.999999999999996
 Rhône – 10,069-10,True,<2,Thomas GASSILLOUD / ENS / Renaissance,ENS,32.54,Cecile PATOUT / EXD / Rassemblement national,EXD,31.15,Florence Janine Jacqueline PERRIN / NFP / Parti socialiste,NFP,23.64,1.3900000000000006
 Rhône – 11,069-11,True,,Alexandre HUMBERT DUPALAIS / EXD / À droite ! Les amis d’Éric Ciotti,EXD,36.81,Jean-Luc FUGIT / ENS / Renaissance,ENS,26.93,Abdel YOUSFI / NFP / Parti communiste français,NFP,22.87,9.880000000000003
@@ -368,7 +368,7 @@ Saône-et-Loire – 1,071-01,True,<5,Rachel DREVET / EXD / Rassemblement nationa
 Saône-et-Loire – 2,071-02,True,<5,Olivier DAMIEN / EXD / Rassemblement national,EXD,37.85,Josiane CORNELOUP / LR / Les Républicains,LR,33.58,,,,4.270000000000003
 Saône-et-Loire – 3,071-03,True,,Aurélien DUTREMBLE / EXD / Rassemblement national,EXD,42.67,Rémy REBEYROTTE / ENS / Renaissance,ENS,25.1,Richard BENINGER / NFP / La France insoumise,NFP,19.14,17.57
 Saône-et-Loire – 4,071-04,True,,Eric MICHOUX / EXD / À droite ! Les amis d’Éric Ciotti,EXD,44.34,Cécile UNTERMAIER / NFP / Parti socialiste,NFP,29.96,Anthony VADOT / LR / Les Républicains,LR,22.33,14.380000000000003
-Saône-et-Loire – 5,071-05,True,,Arnaud SANVERT / EXD / Rassemblement national,EXD,35.12,Fatima KOURICHE / NFP / La France insoumise,NFP,23.28,,,,11.839999999999996
+Saône-et-Loire – 5,071-05,True,,Arnaud SANVERT / EXD / Rassemblement national,EXD,35.12,Fatima KOURICHE / NFP / La France insoumise,NFP,23.28,Louis MARGUERITTE / ENS / Renaissance,ENS,20.75,11.839999999999996
 Sarthe – 1,072-01,True,<5,Céline DE COSSÉ BRISSAC / EXD / Rassemblement national,EXD,33.6,Julie DELPECH / ENS / Renaissance,ENS,30.84,Ghislaine BONNET / NFP / La France insoumise,NFP,25.01,2.7600000000000016
 Sarthe – 2,072-02,True,<5,Marietta KARAMANLI / NFP / Parti socialiste,NFP,39.95,François FEVRE / EXD / À droite ! Les amis d’Éric Ciotti,EXD,35.29,"Samuel CHEVALLIER / Union de la droite, du centre et des indépendants",,23.09,4.660000000000004
 Sarthe – 3,072-03,True,,Romain LEMOIGNE / EXD / Rassemblement national,EXD,42.54,Eric MARTINEAU / ENS / Modem,ENS,29.17,,,,13.369999999999997
@@ -464,7 +464,7 @@ Vaucluse – 5,084-05,True,,Catherine RIMBERT / EXD / Rassemblement national,EXD
 Vendée – 1,085-01,True,<5,Simon-Pierre PAULIN / EXD / À droite ! Les amis d’Éric Ciotti,EXD,32.17,Philippe LATOMBE / ENS / Modem,ENS,28.51,Lucie ETONNO / NFP / Les Écologistes,NFP,23.33,3.66
 Vendée – 2,085-02,True,<5,Béatrice BELLAMY / ENS / Horizons,ENS,38.74,Marie-Christine EBRAN / EXD / Rassemblement national,EXD,36.53,Nicolas HELARY / NFP / La France insoumise,NFP,23.34,2.210000000000001
 Vendée – 3,085-03,True,<1,Pascal DUBIN / EXD / À droite ! Les amis d’Éric Ciotti,EXD,35.59,Stéphane BUCHOU / ENS / Renaissance,ENS,34.89,,,,0.7000000000000028
-Vendée – 4,085-04,True,,Véronique BESSE / Divers droite,,39.31,Jacques PROUX / EXD / Rassemblement national,EXD,22.88,,,,16.430000000000003
+Vendée – 4,085-04,True,,Véronique BESSE / Divers droite,,39.31,Jacques PROUX / EXD / Rassemblement national,EXD,22.88,Ilias NAGNONHOU / ENS / Renaissance,ENS,18.46,16.430000000000003
 Vendée – 5,085-05,True,<5,Stéphane BUFFETAUT / EXD / Rassemblement national,EXD,37.87,Pierre HENRIET / ENS / Horizons,ENS,34.84,Pierre-Hugues FOURAGE / NFP / Parti socialiste,NFP,20.12,3.029999999999994
 Vienne – 1,086-01,True,<5,Lisa BELLUCO / NFP / Les Écologistes,NFP,33.14,Emmanuelle DARLES / EXD / Rassemblement national,EXD,28.93,Séverine SAINT-PÉ / ENS / Horizons,ENS,28.85,4.210000000000001
 Vienne – 2,086-02,True,<5,Sacha HOULIÉ / ENS / Renaissance,ENS,33.21,Valérie SOUMAILLE / NFP / La France insoumise,NFP,28.63,Estelle CHEVALLIER / EXD / Rassemblement national,EXD,24.42,4.580000000000002
@@ -517,7 +517,7 @@ Seine-Saint-Denis – 9,093-09,False,,Aurélie TROUVÉ / NFP / La France insoumi
 Seine-Saint-Denis – 10,093-10,False,,Nadège ABOMANGOLI / NFP / La France insoumise,NFP,52.6,,,,,,,
 Seine-Saint-Denis – 11,093-11,False,,Clémentine AUTAIN / NFP / Parti communiste français,NFP,62.65,,,,,,,
 Seine-Saint-Denis – 12,093-12,True,,Jérôme LEGAVRE / NFP / La France insoumise,NFP,45.11,Jean-François PERIER / EXD / Rassemblement national,EXD,26.04,,,,19.07
-Val-de-Marne – 1,094-01,True,,Lyes LOUFFOK / NFP / La France insoumise,NFP,33.03,Sylvain BERRIOS / LR / Les Républicains,LR,27.97,,,,5.060000000000002
+Val-de-Marne – 1,094-01,True,,Lyes LOUFFOK / NFP / La France insoumise,NFP,33.03,Sylvain BERRIOS / LR / Les Républicains,LR,27.97,Frédéric DESCROZAILLE / ENS / Renaissance,ENS,18.57,5.060000000000002
 Val-de-Marne – 2,094-02,False,,Clémence GUETTÉ / NFP / La France insoumise,NFP,55.0,,,,,,,
 Val-de-Marne – 3,094-03,True,,Louis BOYARD / NFP / La France insoumise,NFP,42.17,Arnaud BARBOTIN / EXD / À droite ! Les amis d’Éric Ciotti,EXD,27.31,Loïc SIGNOR / ENS / Renaissance,ENS,23.77,14.860000000000003
 Val-de-Marne – 4,094-04,True,<5,Adel AMARA / NFP / La France insoumise,NFP,33.02,Maud PETIT / ENS / Modem,ENS,30.58,Alain PHILIPPET / EXD / Rassemblement national,EXD,26.95,2.440000000000005
