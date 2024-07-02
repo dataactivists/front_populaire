@@ -5,11 +5,15 @@ import pandas as pd
 import requests
 
 # fichier avec les codes des circonscriptions
-df = pd.read_json('./data/codes_circos.json')
+url_codes_circos = 'https://apps.contexte.com/data/ctx-legislatives-2024/europeennes_2024/fe.json'
+res = requests.get(url_codes_circos)
+data = res.json()
+
+codes_circos = pd.DataFrame(data)['code']
 
 results = {}
 
-for i, code_circo in df['code'].items():
+for i, code_circo in codes_circos.items():
     print(f'Downloading {code_circo} ({i + 1} out of 577)')
 
     # itérer sur les urls en modifiant le code circo
