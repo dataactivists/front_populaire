@@ -103,7 +103,7 @@ for i, row in df.iterrows():
 for i, row in df.iterrows():
     if (
         row['premier_tour'][1]['code'] != 'elected'
-        and len(row['premier_tour'][1]['lines']) == 3
+        and len(row['premier_tour'][1]['lines']) >= 3
     ):
         df.loc[i, 'candidat_3'] = row['premier_tour'][1]['lines'][2]['label']
         df.loc[i, 'candidat_3_parti'] = row['premier_tour'][1]['lines'][2]['pole_code']
