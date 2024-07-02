@@ -42,12 +42,15 @@ df.head()
 # ## Clean data
 
 # %%
+df.describe()
+
+# %%
 # dropper les colonnes inutiles
-df = df.drop(columns=['blocs', 'code'])
+df = df.drop(columns=['blocs', 'code', 'estimation'])
 
 # %%
 # renommer les colonnes
-df.columns = ['code_circo', 'premier_tour', 'estimation']
+df.columns = ['code_circo', 'premier_tour']
 
 # %%
 # extraire les infos utiles sur le premier tour
@@ -144,12 +147,18 @@ df.head(10)
 # dropper colonne 'premier_tour'
 df = df.drop(columns=['premier_tour'])
 
+# %%
+# convertir les dtypes
+df = df.convert_dtypes()
+
+df.info()
+
 # %% [markdown]
 # ## Export data
 
 # %%
 # exporter en csv
-df.to_csv('../data/resultats.csv')
+df.to_csv('../data/resultats.csv', index=False)
 
 # %%
 # exporter en xlsx
